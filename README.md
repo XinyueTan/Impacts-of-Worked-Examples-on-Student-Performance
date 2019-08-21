@@ -32,7 +32,7 @@ install.packages("caTools")
 2. Visualize the missing data using **mice package** and delete rows with missing values
 <img src="https://user-images.githubusercontent.com/46146748/63471175-74e8b380-c43c-11e9-9dca-14036793373b.png" width="600">
 3. Calculate the accuracy rate of each question on the two test forms (A, B) for both units
-
+##############
 Accuracy Rate of Each Question in the Unit 7 |  Accuracy Rate of Each Question in the Unit 9
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/46146748/63472747-16720400-c441-11e9-922e-e751937d6fd2.jpg)  |  ![](https://user-images.githubusercontent.com/46146748/63472746-16720400-c441-11e9-9759-f4b64e6d4319.jpg)
@@ -40,10 +40,10 @@ Accuracy Rate of Each Question in the Unit 7 |  Accuracy Rate of Each Question i
 
 4. Use **Spineplots function** to plot the relationship between "Condition" and "Score" 
 <img src="https://user-images.githubusercontent.com/46146748/63471522-5f27be00-c43d-11e9-9880-f447398a5327.png" width="450">
-5. Run a **chi-squared test** to determine if there is a significant relationship between "Score" and "Condition"
-6. Conduct **chi-square test** for variable "Pre/Post Test" and "Condition", variable "A/B Form" and "Condition" and variable "Units" and "Condition" 
+5. Run a chi-squared test to determine if there is a significant relationship between "Score" and "Condition"
+6. Conduct chi-square test for variable "Pre/Post Test" and "Condition", variable "A/B Form" and "Condition" and variable "Units" and "Condition" 
 <img src="https://user-images.githubusercontent.com/46146748/63471981-b5e1c780-c43e-11e9-9df9-2cc35bfbea36.png" width="700">
-7. A **logistic regression** was fit to model the outcome variable (Score) conditional on the predictors (Teacher, Condition, Units, Pre/ Post Test, A/B Form)
+7. A logistic regression was fit to model the outcome variable (Score) conditional on the predictors (Teacher, Condition, Units, Pre/ Post Test, A/B Form)
 
 
 ## Author
