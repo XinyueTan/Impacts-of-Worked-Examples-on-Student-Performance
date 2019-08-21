@@ -39,10 +39,10 @@ Accuracy Rate of Each Question in the Unit 7 |  Accuracy Rate of Each Question i
 
 
 4. Use **Spineplots function** to plot the relationship between "Condition" and "Score" 
-<img src="https://user-images.githubusercontent.com/46146748/63471522-5f27be00-c43d-11e9-9880-f447398a5327.png" width="500">
+<img src="https://user-images.githubusercontent.com/46146748/63471522-5f27be00-c43d-11e9-9880-f447398a5327.png" width="450">
 5. Run a **chi-squared test** to determine if there is a significant relationship between "Score" and "Condition"
 6. Conduct **chi-square test** for variable "Pre/Post Test" and "Condition", variable "A/B Form" and "Condition" and variable "Units" and "Condition" 
-<img src="https://user-images.githubusercontent.com/46146748/63471981-b5e1c780-c43e-11e9-9df9-2cc35bfbea36.png" width="800">
+<img src="https://user-images.githubusercontent.com/46146748/63471981-b5e1c780-c43e-11e9-9df9-2cc35bfbea36.png" width="700">
 7. A **logistic regression** was fit to model the outcome variable (Score) conditional on the predictors (Teacher, Condition, Units, Pre/ Post Test, A/B Form)
 
 
