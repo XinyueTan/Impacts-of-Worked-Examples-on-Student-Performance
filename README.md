@@ -32,7 +32,6 @@ install.packages("caTools")
 2. Visualize the missing data using **mice package** and delete rows with missing values
 <img src="https://user-images.githubusercontent.com/46146748/63471175-74e8b380-c43c-11e9-9dca-14036793373b.png" width="600">
 3. Calculate the accuracy rate of each question on the two test forms (A, B) for both units
-##############
 Accuracy Rate of Each Question in the Unit 7 |  Accuracy Rate of Each Question in the Unit 9
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/46146748/63472747-16720400-c441-11e9-922e-e751937d6fd2.jpg)  |  ![](https://user-images.githubusercontent.com/46146748/63472746-16720400-c441-11e9-9759-f4b64e6d4319.jpg)
